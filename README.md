@@ -1,0 +1,2 @@
+# PropertyReplacedByRoslyn
+Roslyn でAnalyzerじゃなく、Auto Migrate用のClass生成（現状Propertyの置換のみ）を行った記録
